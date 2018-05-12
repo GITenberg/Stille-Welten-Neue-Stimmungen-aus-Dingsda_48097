@@ -1,4 +1,8 @@
 _repo: Stille-Welten-Neue-Stimmungen-aus-Dingsda_48097
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48097-h/images/cover.jpg
 creator:
   author:
     agent_name: Schlaf, Johannes
@@ -10,6 +14,8 @@ creator:
     - http://www.gutenberg.org/ebooks/author/1517
     - http://en.wikipedia.org/wiki/Johannes_Schlaf
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48097#Stille-Welten-Neue-Stimmungen-aus-Dingsda
 gutenberg_issued: '2015-01-27'
 gutenberg_type: Text
 identifiers:
